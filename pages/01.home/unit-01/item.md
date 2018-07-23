@@ -2,7 +2,7 @@
 title: 'Unit 1'
 published: true
 header_image_credit: 'Joris Louwes, Flickr.com'
-header_image_creditlink: 'https://www.flickr.com/photos/137845635@N03'
+header_image_creditlink: 'https://flic.kr/p/Zg7zAA'
 ---
 
 ##### Presented Slides
