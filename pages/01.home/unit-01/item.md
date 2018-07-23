@@ -1,9 +1,8 @@
 ---
-title: 'Week 1 (Sep 6 - 12)'
-date: 09/06/2017
+title: 'Unit 1'
 published: true
-header_image_credit: 'Amar Dhari, Flickr.com'
-header_image_creditlink: 'https://www.flickr.com/photos/13202489@N04/17656394823/'
+header_image_credit: 'Joris Louwes, Flickr.com'
+header_image_creditlink: 'https://www.flickr.com/photos/137845635@N03/37583366906'
 ---
 
 ##### Presented Slides
