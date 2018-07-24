@@ -2,7 +2,7 @@
 title: 'Unit 1'
 published: true
 header_image_credit:
-header_image_creditlink: 
+header_image_creditlink:
 ---
 
 # Unit 1:  What does our society tell us about the good life?
@@ -11,7 +11,6 @@ header_image_creditlink:
 
 Welcome to FNDN 201: Ideas that Inspire!  This class is going to be a very different learning experience. You do not have any tests or exams. There are no right or wrong answers. This class is all about engaging in the process of inquiry into the big question, "What is the good life?" In this first unit, we begin the course by exploring the messages that bombard us in our daily lives – from social media and pop culture to the norms of our communities.
 
-===
 
 ## Topics and Prompts
 
