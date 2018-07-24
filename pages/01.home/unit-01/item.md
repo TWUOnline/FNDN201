@@ -37,7 +37,7 @@ When you have completed this unit you should be able to:
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-|  | **Activities** |
+|  | Activities |
 | ---: | :--- |
 |  Activity 1 | Watch the Powtoons overview of this course and then post any questions you might have. |
 |    Activity 2 | Introduce yourself briefly so that your classmates and instructor can get to know you better. |
