@@ -1,8 +1,8 @@
 ---
 title: 'Unit 1'
 published: true
-header_image_credit: 'Joris Louwes, Flickr.com'
-header_image_creditlink: 'https://www.flickr.com/photos/137845635@N03/37583366906/'
+header_image_credit:
+header_image_creditlink: 
 ---
 
 # Unit 1:  What does our society tell us about the good life?
