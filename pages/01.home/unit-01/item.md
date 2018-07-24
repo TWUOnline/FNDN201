@@ -37,15 +37,15 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 |  | **Activities** |
 | ---: | :--- |
-|  Activity 1:| Watch the Powtoons overview of this course and then post any questions you might have. |
-|    Activity 2:| Introduce yourself briefly so that your classmates and instructor can get to know you better. |
-|    Activity 3: | Read the introduction to the song, "Can't get no satisfaction," and listen to it or watch the video. |
-|    Activity 4:| Journal in response to the song. |
-|    Activity 5:| What does advertising tell us? |
-|    Activity 6:| What does social media tell us? |
-|   Activity 7:| What does social science tell us? Read the introduction and watch the TedTalk. "What makes a good life?" |
-|    Activity 8: |Meet with your group to discuss questions related to the TedTalk. |
-|    Activity 9:| Read the introduction and watch the video, "Crash Course Philosophy."  Then discuss with your group. |
+|  Activity 1 | Watch the Powtoons overview of this course and then post any questions you might have. |
+|    Activity 2 | Introduce yourself briefly so that your classmates and instructor can get to know you better. |
+|    Activity 3 | Read the introduction to the song, "Can't get no satisfaction," and listen to it or watch the video. |
+|    Activity 4 | Journal in response to the song. |
+|    Activity 5 | What does advertising tell us? |
+|    Activity 6 | What does social media tell us? |
+|   Activity 7 | What does social science tell us? Read the introduction and watch the TedTalk. "What makes a good life?" |
+|    Activity 8 |Meet with your group to discuss questions related to the TedTalk. |
+|    Activity 9 | Read the introduction and watch the video, "Crash Course Philosophy."  Then discuss with your group. |
 
 ## **Assessment**
 
