@@ -11,7 +11,6 @@ header_image_creditlink:
 
 Welcome to FNDN 201: Ideas that Inspire!  This class is going to be a very different learning experience. You do not have any tests or exams. There are no right or wrong answers. This class is all about engaging in the process of inquiry into the big question, "What is the good life?" In this first unit, we begin the course by exploring the messages that bombard us in our daily lives – from social media and pop culture to the norms of our communities.
 
-
 ## Topics and Prompts
 
 Unit 1 is divided into 3 topics and several prompts:
@@ -36,17 +35,17 @@ When you have completed this unit you should be able to:
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-|  | **Activities** |
-| --- | --- |
-|   | Activity 1: Watch the Powtoons overview of this course and then post any questions you might have. |
-|   | Activity 2: Introduce yourself briefly so that your classmates and instructor can get to know you better. |
-|   | Activity 3:  Read the introduction to the song, "Can't get no satisfaction," and listen to it or watch the video. |
-|   | Activity 4: Journal in response to the song. |
-|   | Activity 5: What does advertising tell us? |
-|   | Activity 6: What does social media tell us? |
-|   | Activity 7: What does social science tell us? Read the introduction and watch the TedTalk. "What makes a good life?" |
-|   | Activity 8: Meet with your group to discuss questions related to the TedTalk. |
-|   | Activity 9: Read the introduction and watch the video, "Crash Course Philosophy."  Then discuss with your group. |
+|  | **Activities** |
+| ---: | :--- |
+|  Activity 1:| Watch the Powtoons overview of this course and then post any questions you might have. |
+|    Activity 2:| Introduce yourself briefly so that your classmates and instructor can get to know you better. |
+|    Activity 3: | Read the introduction to the song, "Can't get no satisfaction," and listen to it or watch the video. |
+|    Activity 4:| Journal in response to the song. |
+|    Activity 5:| What does advertising tell us? |
+|    Activity 6:| What does social media tell us? |
+|   Activity 7:| What does social science tell us? Read the introduction and watch the TedTalk. "What makes a good life?" |
+|    Activity 8: |Meet with your group to discuss questions related to the TedTalk. |
+|    Activity 9:| Read the introduction and watch the video, "Crash Course Philosophy."  Then discuss with your group. |
 
 ## **Assessment**
 
