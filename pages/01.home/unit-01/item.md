@@ -1,8 +1,7 @@
 ---
 title: 'Unit 1'
 published: true
-header_image_credit:
-header_image_creditlink:
+show_sidebar: false
 ---
 
 ===
