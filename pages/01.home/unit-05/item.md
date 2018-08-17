@@ -7,10 +7,6 @@ header_image_creditlink: 'https://www.flickr.com/photos/cloneofsnake/13966760787
 hide_from_post_list: true
 ---
 
-##### Presented Slides
-[User Research](https://swipe.to/9967fp)
-
-===
 # Unit 5:  Do we find goodness in hospitality?
 
 ## Overview
