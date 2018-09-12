@@ -80,7 +80,6 @@ Reflect on one or more of the questions below in your journal entry. Spend appro
 
 Read the background on the historical and situational context of the Great Depression, the &quot;Dust Bowl,&quot; and the specific archival collection that we will explore.
 
-**[put content in slide or other media for better impact]**
 
 **The Great Depression, 1929-39 (approximately)**
 
