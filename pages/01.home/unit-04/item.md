@@ -51,9 +51,9 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 Here is the assessment for this unit.
 
-| **Group discussion** : Do we find happiness in ability? Meet with your group to discuss what Nouwen&#39;s sermon means to you and how it helps you think about the concept of ability. Complete the Group Discussion Template as a record of your discussion and post it. | 2% |
+| **Group discussion:** Do we find happiness in ability? Meet with your group to discuss what Nouwen&#39;s sermon means to you and how it helps you think about the concept of ability. Complete the Group Discussion Template as a record of your discussion and post it. | 2% |
 | --- | --- |
-
+| **Experiential learning report #1** : Choose a  experience to engage in from the perspective of the good life. Summarize your experience and present ways in which it addresses the big question. | 15% |
 
 
 ## Prompt 1:
